@@ -48,3 +48,11 @@ Bsrc/main/java/br/com/pedrogallon/adapter/database/entity/Shop.java,0\9\09e8122
 mvnw,5\d\5d837c4ed85ecaaf932c506e80ff5d7b9f3d590d
 8
 mvnw.cmd,1\f\1f1763f358c257ea3515417352b82b0165647ad1
+N
+src/main/docker/Dockerfile.jvm,6\1\6114331286b7e0a3b0b110e87eb46921b6460357
+Q
+!src/main/docker/Dockerfile.native,6\d\6d25651cd54ddfed64a1ded60b4171086c760e6f
+U
+%src/main/docker/Dockerfile.legacy-jar,f\1\f164030dd9e710f6f8c8cce9065de9616fc8c594
+W
+'src/main/docker/Dockerfile.native-micro,d\4\d4cfc02a5990ec4ed831f17c6cc236f7da07bb18
